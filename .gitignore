@@ -1,0 +1,25 @@
+# Unity generated files
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]serSettings/
+MemoryCaptures/
+
+# Crash logs
+*.stacktrace
+
+# VSCode
+.vscode/
+
+# Rider
+.idea/
+*.sln
+
+# MacOS
+.DS_Store
+
+# Windows
+Thumbs.db
